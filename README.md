@@ -1,4 +1,4 @@
-## Hello, World 🌍🌍! I'm Lucas Freitas, JR Programmer and a Tech Lover 💻!! 
+## Hello, World 🌍🌍! I'm Lucas Freitas, Programmer and a Tech Lover 💻!! 
 
 <div align="center">
   <a href="https://github.com/lucasfreitas242">
